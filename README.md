@@ -1,5 +1,5 @@
 # ble-timer
-this repositorie BLE control relay module and DC lock module
+this repositorie BLE control relay module and DC lock module<br/>
 timer lock open
 
 <img src="https://ae01.alicdn.com/kf/H511f70d3f70445758b4b51723f974515s.jpg">
